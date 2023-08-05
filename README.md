@@ -44,6 +44,7 @@ My voyage on CodeWars has been a fantastic one. Starting from fundamental exerci
 I'm thrilled to connect with fellow coding enthusiasts, problem solvers, and collaborators. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoudmohamed) or [Twitter](https://twitter.com/mahmoud_dev). Let's embark on a coding journey together!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZEUODEtQiU5Fu/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" alt="Coding GIF">
 </p>
+
 
